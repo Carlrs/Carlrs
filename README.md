@@ -1,3 +1,2 @@
 - 👋 Hi, I’m @Carlrs
-- 👀 I’m interested in Rust and Kotlin, but only work with the latter professionally.
-- 🌱 I’m currently learning Rust
+- 👀 I’m interested in Rust and Kotlin, but only work with the latter full time.
